@@ -11,9 +11,9 @@ A simple web app that lets users search Wikipedia and view matching results in a
 
 ## Project Files
 
-- `wikipedia.html` - page structure
-- `wikipedia.css` - styles for the search page and results
-- `wikipedia.js` - search logic and API handling
+- `index.html` - page structure
+- `style.css` - styles for the search page and results
+- `script.js` - search logic and API handling
 
 ## How to Run
 
